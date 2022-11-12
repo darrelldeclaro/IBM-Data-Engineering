@@ -14,6 +14,6 @@ project:
 
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/66b58463-e589-4a1c-97c7-5a773a945a3c/view?access_token=575b9f63f4593f540700008c7e03c5b1514f0440fece2ef221e767fcf1f6f56f
 
-[Coursera APXKPKC6HMDS.pdf](https://github.com/darrelldeclaro/IBM-Data-Engineering/files/9994141/Coursera.APXKPKC6HMDS.pdf)
+![image](https://user-images.githubusercontent.com/70382462/201458346-db46a4a0-1bce-4fb1-9879-071f9b2f45df.png)
 
-[Coursera R4BJQD23A322.pdf](https://github.com/darrelldeclaro/IBM-Data-Engineering/files/9994142/Coursera.R4BJQD23A322.pdf)
+![image](https://user-images.githubusercontent.com/70382462/201458357-a065b7a8-19c6-45fe-a0ac-d24392e491ef.png)
