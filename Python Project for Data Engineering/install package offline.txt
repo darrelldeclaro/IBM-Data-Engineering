@@ -1,0 +1,5 @@
+on cmd;
+
+C:\users\name\SourceFolder\pip install [python package name]-py3-none-any.whl -f ./ --no-index --no-deps
+C:\users\name\SourceFolder\pip install [python package name].tar.gz -f ./ --no-index --no-deps
+
